@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.exe
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.deps.json
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.runtimeconfig.json
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.dll
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\ref\Adapter 1 obszar.dll
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\bin\Debug\net5.0\Adapter 1 obszar.pdb
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.AssemblyInfo.cs
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.dll
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\ref\Adapter 1 obszar.dll
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.pdb
+C:\Users\Student\source\repos\Adapter 1 obszar\Adapter 1 obszar\obj\Debug\net5.0\Adapter 1 obszar.genruntimeconfig.cache
